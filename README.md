@@ -103,15 +103,15 @@ I'm a **Full-Stack Software Engineer** specializing in **Python (Django)** for b
 
 <h1>GitHub Stats</h1>
 <div align="center"> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shabeehNaqvi1&theme=highcontrast&line_height=20" alt="Shabeeh"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shabeeh21291&theme=highcontrast&line_height=20" alt="Shabeeh"/>
 </div>
 
 <br/>
 <div align="center"> 
-<div><img height=259 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabeehNaqvi1&layout=compact&hide=html&theme=tokyonight" alt="Shabeeh Top Languages" /></div>
+<div><img height=259 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabeeh21291&layout=compact&hide=html&theme=tokyonight" alt="Shabeeh Top Languages" /></div>
 <br />
 <br />
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=shabeehNaqvi1&show_icons=true&theme=tokyonight" alt="Shabeeh Stats" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=shabeeh2129&show_icons=true&theme=tokyonight" alt="Shabeeh Stats" /></div>
 </div>
 
 ---
